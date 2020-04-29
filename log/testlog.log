@@ -1,0 +1,29 @@
+2020-03-06 11:48:50,178 - OpenBrowser -INFO - Start Open Browser Test Case
+2020-03-06 11:48:50,286 - OpenBrowserMethod -INFO - Start Open Browser Test Case
+2020-03-06 11:48:55,558 - OpenBrowserMethod -INFO - Close Open Browser Test Case
+2020-03-06 11:48:55,575 - AgentLogin -INFO - start AgentLogin test case
+2020-03-06 11:52:23,383 - OpenBrowser -INFO - Start Open Browser Test Case
+2020-03-06 11:52:23,497 - OpenBrowserMethod -INFO - Start Open Browser Test Case
+2020-03-06 11:52:29,388 - OpenBrowserMethod -INFO - Close Open Browser Test Case
+2020-03-06 11:52:29,411 - AgentLogin -INFO - start AgentLogin test case
+2020-03-06 12:00:00,724 - OpenBrowser -INFO - Start Open Browser Test Case
+2020-03-06 12:00:00,897 - OpenBrowserMethod -INFO - Start Open Browser Test Case
+2020-03-06 12:00:17,555 - OpenBrowserMethod -INFO - Close Open Browser Test Case
+2020-03-06 12:00:17,641 - AgentLogin -INFO - start AgentLogin test case
+2020-03-06 12:04:58,243 - AgentLogin -INFO - Call ExtentReport In AgentLogin Test Case
+2020-03-06 12:04:58,245 - Agent Login  test case extent report -INFO - Start AgentLogin  test case extent report method 
+2020-03-06 12:04:58,254 - get result method -INFO - start get result  method
+2020-03-06 12:06:30,711 - OpenBrowser -INFO - Start Open Browser Test Case
+2020-03-06 12:07:01,309 - OpenBrowser -INFO - Start Open Browser Test Case
+2020-03-06 12:12:54,097 - OpenBrowser -INFO - Start Open Browser Test Case
+2020-03-06 12:51:54,978 - OpenBrowser -INFO - Start Open Browser Test Case
+2020-03-06 12:53:07,401 - OpenBrowser -INFO - Start Open Browser Test Case
+2020-03-06 12:53:07,509 - OpenBrowserMethod -INFO - Start Open Browser Test Case
+2020-03-06 14:12:17,449 - OpenBrowser -INFO - Start Open Browser Test Case
+2020-03-06 14:12:17,567 - OpenBrowserMethod -INFO - Start Open Browser Method
+2020-03-06 14:12:22,743 - OpenBrowserMethod -INFO - Close Open Browser Test Case
+2020-03-06 14:26:01,859 - OpenBrowser -INFO - Start Open Browser Test Case
+2020-03-06 14:26:02,007 - OpenBrowserMethod -INFO - Start Open Browser Method
+2020-03-06 14:26:07,745 - OpenBrowserMethod -INFO - Close Open Browser Method
+2020-03-06 14:26:07,769 - AgentLogin -INFO - start AgentLogin test case
+2020-03-06 14:26:07,771 - Login -INFO - Start Login Method
